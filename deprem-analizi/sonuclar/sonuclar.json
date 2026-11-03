@@ -1,0 +1,314 @@
+{
+ "n": 241,
+ "tarih_min": "2025-02-11 09:16:45",
+ "tarih_max": "2026-11-02 20:58:06",
+ "deniz_n": 45,
+ "il_top10": {
+  "Balıkesir": 92,
+  "Kütahya": 15,
+  "Kahramanmaraş": 11,
+  "Malatya": 8,
+  "Adana": 8,
+  "Bingöl": 5,
+  "Erzincan": 5,
+  "Osmaniye": 5,
+  "Elazığ": 4,
+  "Denizli": 4
+ },
+ "deniz_say": {
+  "Akdeniz": 18,
+  "Ege Denizi": 16,
+  "Marmara Denizi": 11
+ },
+ "tip": {
+  "MW": 218,
+  "ML": 23
+ },
+ "depth_med": 8.67,
+ "depth_q10_q90": [
+  6.91,
+  14.78
+ ],
+ "depth_tam_7km": 45,
+ "depth_gt30": [
+  [
+   "2025-06-05 07:32:32",
+   "Akdeniz - [38.62 km] Gazipaşa (Antalya)",
+   "67.26",
+   "4.0"
+  ],
+  [
+   "2025-08-13 20:39:15",
+   "Ege Denizi - [66.22 km] Datça (Muğla)",
+   "56.87",
+   "4.3"
+  ],
+  [
+   "2025-10-22 05:45:24",
+   "Akdeniz - [20.10 km] Ortaca (Muğla)",
+   "34.46",
+   "4.5"
+  ],
+  [
+   "2025-12-08 13:21:32",
+   "Aksu (Antalya)",
+   "94.06",
+   "4.9"
+  ],
+  [
+   "2026-01-10 05:55:01",
+   "Akdeniz - [36.61 km] Fethiye (Muğla)",
+   "40.08",
+   "4.1"
+  ],
+  [
+   "2026-03-10 14:20:20",
+   "Akdeniz - Antalya Körfezi - [18.77 km] Manavgat (Antalya)",
+   "40.87",
+   "4.1"
+  ],
+  [
+   "2026-05-10 23:29:56",
+   "Ege Denizi - [56.17 km] Bodrum (Muğla)",
+   "41.2",
+   "4.2"
+  ]
+ ],
+ "rms_gt2": [
+  [
+   "2025-04-21 20:24:42",
+   "Simav (Kütahya)",
+   "1.39",
+   "13.54",
+   "4.3"
+  ]
+ ],
+ "spearman_depth_mag": [
+  -0.015751307258305668,
+  0.8077963875361494
+ ],
+ "aylik": {
+  "2025-02": 6,
+  "2025-03": 2,
+  "2025-04": 20,
+  "2025-05": 9,
+  "2025-06": 8,
+  "2025-07": 6,
+  "2025-08": 37,
+  "2025-09": 17,
+  "2025-10": 26,
+  "2025-11": 25,
+  "2025-12": 8,
+  "2026-01": 13,
+  "2026-02": 10,
+  "2026-03": 10,
+  "2026-04": 12,
+  "2026-05": 5,
+  "2026-06": 6,
+  "2026-07": 5,
+  "2026-08": 6,
+  "2026-09": 1,
+  "2026-10": 8,
+  "2026-11": 1
+ },
+ "ay_ort": 10.954545454545455,
+ "ay_med": 8.0,
+ "en_yogun_gunler": {
+  "2025-10-28": 10,
+  "2025-08-11": 10,
+  "2025-08-10": 7,
+  "2025-04-23": 6,
+  "2025-08-13": 4
+ },
+ "kume_sayisi": 7,
+ "kume_disi": 89,
+ "kume_payi": 0.6307053941908713,
+ "kumeler": [
+  {
+   "kume": 4,
+   "n": 93,
+   "lat": 39.196,
+   "lon": 28.187,
+   "il": "Balıkesir",
+   "ilce": "Sındırgı",
+   "basla": "2025-08-10",
+   "bitis": "2026-06-28",
+   "sure_gun": 321,
+   "mmax": 4.9,
+   "mort": 4.244,
+   "depth_med": 7.89
+  },
+  {
+   "kume": 1,
+   "n": 14,
+   "lat": 39.23,
+   "lon": 28.969,
+   "il": "Kütahya",
+   "ilce": "Simav",
+   "basla": "2025-04-21",
+   "bitis": "2026-04-11",
+   "sure_gun": 354,
+   "mmax": 4.9,
+   "mort": 4.343,
+   "depth_med": 10.495
+  },
+  {
+   "kume": 5,
+   "n": 12,
+   "lat": 37.769,
+   "lon": 36.119,
+   "il": "Adana",
+   "ilce": "Saimbeyli",
+   "basla": "2025-06-24",
+   "bitis": "2026-11-02",
+   "sure_gun": 496,
+   "mmax": 5.0,
+   "mort": 4.458,
+   "depth_med": 7.0
+  },
+  {
+   "kume": 2,
+   "n": 11,
+   "lat": 40.84,
+   "lon": 28.269,
+   "il": "İstanbul",
+   "ilce": "Marmara Denizi - [25.43 km] Silivri",
+   "basla": "2025-04-23",
+   "bitis": "2025-10-02",
+   "sure_gun": 162,
+   "mmax": 5.0,
+   "mort": 4.455,
+   "depth_med": 7.02
+  },
+  {
+   "kume": 0,
+   "n": 11,
+   "lat": 38.289,
+   "lon": 38.689,
+   "il": "Malatya",
+   "ilce": "Battalgazi",
+   "basla": "2025-02-17",
+   "bitis": "2026-08-25",
+   "sure_gun": 554,
+   "mmax": 5.0,
+   "mort": 4.4,
+   "depth_med": 9.85
+  },
+  {
+   "kume": 6,
+   "n": 6,
+   "lat": 37.2,
+   "lon": 36.886,
+   "il": "Gaziantep",
+   "ilce": "Nurdağı",
+   "basla": "2025-10-23",
+   "bitis": "2026-08-09",
+   "sure_gun": 289,
+   "mmax": 4.6,
+   "mort": 4.3,
+   "depth_med": 7.275
+  },
+  {
+   "kume": 3,
+   "n": 5,
+   "lat": 38.083,
+   "lon": 36.596,
+   "il": "Kahramanmaraş",
+   "ilce": "Göksun",
+   "basla": "2025-05-17",
+   "bitis": "2026-03-11",
+   "sure_gun": 297,
+   "mmax": 4.2,
+   "mort": 4.04,
+   "depth_med": 7.01
+  }
+ ],
+ "duyarlilik": {
+  "eps15_min4": {
+   "kume_sayisi": 6,
+   "kume_disi": 99,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": true
+  },
+  "eps15_min5": {
+   "kume_sayisi": 5,
+   "kume_disi": 103,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": true
+  },
+  "eps15_min8": {
+   "kume_sayisi": 4,
+   "kume_disi": 114,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": false
+  },
+  "eps25_min4": {
+   "kume_sayisi": 7,
+   "kume_disi": 85,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": true
+  },
+  "eps25_min5": {
+   "kume_sayisi": 7,
+   "kume_disi": 89,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": true
+  },
+  "eps25_min8": {
+   "kume_sayisi": 5,
+   "kume_disi": 99,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": true
+  },
+  "eps40_min4": {
+   "kume_sayisi": 9,
+   "kume_disi": 69,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": true
+  },
+  "eps40_min5": {
+   "kume_sayisi": 8,
+   "kume_disi": 74,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": true
+  },
+  "eps40_min8": {
+   "kume_sayisi": 5,
+   "kume_disi": 94,
+   "Sındırgı": true,
+   "Simav": true,
+   "Marmara": true,
+   "Adana": true,
+   "Malatya": true
+  }
+ },
+ "b_klasik_aki_utsu": [
+  1.3853735293009102,
+  0.08923975389394868,
+  241
+ ]
+}
